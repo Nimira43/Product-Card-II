@@ -1,4 +1,4 @@
-function CheckoutPage() {
-    return <h1 className='text-3xl'>CheckoutPage</h1>
+function UserIcon() {
+    return <h1 className='text-3xl'>UserIcon</h1>
   }
-  export default CheckoutPage
+  export default UserIcon

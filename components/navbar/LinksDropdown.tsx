@@ -1,4 +1,4 @@
-function LinksDropdownPage() {
-    return <h1 className='text-3xl'>LinksDropdownPage</h1>
+function LinksDropdown() {
+    return <h1 className='text-3xl'>LinksDropdown</h1>
   }
-  export default LinksDropdownPage
+  export default LinksDropdown

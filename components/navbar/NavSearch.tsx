@@ -1,4 +1,4 @@
-function UserIcon() {
-    return <h1 className='text-3xl'>UserIcon</h1>
+function NavSearch() {
+    return <h1 className='text-3xl'>NavSearch</h1>
   }
-  export default UserIcon
+  export default NavSearch

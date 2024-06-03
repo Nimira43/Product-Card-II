@@ -1,4 +1,4 @@
-function DarkModePage() {
-    return <h1 className='text-3xl'>DarkModePage</h1>
+function DarkMode() {
+    return <h1 className='text-3xl'>DarkMode</h1>
   }
-  export default DarkModePage
+  export default DarkMode
