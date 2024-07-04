@@ -1,1 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Truculenta', sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-color: #444;
+    position: relative;
+    overflow: hidden;
+}
+
+.bg {
+    width: 180rem;
+    height: 180rem;
+    border-radius: 50%;
+    background-color: #ddd;
+    position: absolute;
+}
+
+.bg-1 {
+    left: -45%;
+    top: -10%;
+}
+
+.bg-2 {
+    right: -15%;
+    top: -35%;
+}
+
+.card {
+    width: 120rem;
+    height: 70rem;
+    background-color: #ccc;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 1rem;
+    box-shadow: 0 1rem 6rem rgba(0, 0, 0, 0.4)''
+}
+
